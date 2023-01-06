@@ -7,3 +7,6 @@ Degree work for the degree of Electronic Engineer.
  
 ## Thesis Director:
   - *PhD. Hernán Dario Vargas Cardona*
+
+## Dataset:
+Dataset available in the following link: https://drive.google.com/drive/folders/1Juy3mwwbKxS25jGUhr4gWGNkdIkjnA0d?usp=share_link
