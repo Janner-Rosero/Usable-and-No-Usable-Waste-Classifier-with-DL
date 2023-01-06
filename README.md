@@ -9,4 +9,5 @@ Degree work for the degree of Electronic Engineer.
   - *PhD. Hernán Dario Vargas Cardona*
 
 ## Dataset:
-Dataset available in the following link: https://drive.google.com/drive/folders/1Juy3mwwbKxS25jGUhr4gWGNkdIkjnA0d?usp=share_link
+This dataset contains a total of 2015 photos (1015 of usable and 1000 of no usable waste). Within this photos you can find food packaging, plastic and glass bottles, napkins, batteries, among others.
+The dataset available in the following link: https://drive.google.com/drive/folders/1Juy3mwwbKxS25jGUhr4gWGNkdIkjnA0d?usp=share_link
