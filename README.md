@@ -11,7 +11,7 @@ Degree work for the degree of Electronic Engineer.
 ## Models:
 In this project we have used 6 models of architectures, each model has been applied with Transfer Learning methods. The models are as follows:
 
-- InceptionV1 <<Fine Tuning>>
+- InceptionV1 «Fine Tuning»
 - ResNet50V2 <Fine Tuning>
 - MobileNetV3 <Fine Tuning>
 - MobileNetV3 + SVM <Feature extractor>
