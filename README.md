@@ -11,12 +11,12 @@ Degree work for the degree of Electronic Engineer.
 ## Models:
 In this project we have used 6 models of architectures, each model has been applied with Transfer Learning methods. The models are as follows:
 
-- InceptionV1 <Fine Tuning>
-- ResNet50V2 <Fine Tuning>
-- MobileNetV3 <Fine Tuning>
-- MobileNetV3 + SVM <Feature extractor>
-- VGG19 <Fine Tuning>
-- VGG19 + SVM <Feature extractor>
+- InceptionV1 '<Fine Tuning>'
+- ResNet50V2 '<Fine Tuning>'
+- MobileNetV3 '<Fine Tuning>'
+- MobileNetV3 + SVM '<Feature extractor>'
+- VGG19 '<Fine Tuning>'
+- VGG19 + SVM '<Feature extractor>'
 
 ## Dataset:
 This dataset contains a total of 2015 photos (1015 of usable and 1000 of non-usable waste). Within this photos you can find food packaging, plastic and glass bottles, napkins, batteries, among others.
