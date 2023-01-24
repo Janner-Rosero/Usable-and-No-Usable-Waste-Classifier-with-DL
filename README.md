@@ -9,19 +9,9 @@ Degree work for the degree of Electronic Engineer.
   - *PhD. Hernán Dario Vargas Cardona*
 
 ## Abstract:
-The processing of solid waste is a problem that has been affecting humanity for several years,
-resulting in pollution and excessive accumulation of waste in landfills. All this panorama has brough
-the application of regulations for the classification of waste for further processing, where in Colombia
-the current regulations dictate three types of waste: Usable, Non Usable and Organic. However,
-even with the existence of regulations and educational campaigns on the management of urban
-solid waste, the community does not adequately separate these materials and this brings with it an
-increase in labor energy in the facilities dedicated to the processing of waste that seek to give them
-a correct treatment.
-This work proposes the implementation of a technological tool that allows the automatic classification
-of organic waste focusing on the facilities of the campus of the Pontificia Universidad
-Javeriana Cali. For this purpose, computer vision will be used for the recognition of waste images
-which will be processed and classified from a Deep Learning algorithm that aims to identify and
-classify waste between usable and non-usable.
+The processing of solid waste is a problem that has been affecting humanity for several years, resulting in pollution and excessive accumulation of waste in landfills. All this panorama has brough the application of regulations for the classification of waste for further processing, where in Colombia the current regulations dictate three types of waste: Usable, Non Usable and Organic. However, even with the existence of regulations and educational campaigns on the management of urban solid waste, the community does not adequately separate these materials and this brings with it an increase in labor energy in the facilities dedicated to the processing of waste that seek to give them a correct treatment.
+
+This work proposes the implementation of a technological tool that allows the automatic classification of organic waste focusing on the facilities of the campus of the Pontificia Universidad Javeriana Cali. For this purpose, computer vision will be used for the recognition of waste images which will be processed and classified from a Deep Learning algorithm that aims to identify and classify waste between usable and non-usable.
 
 ## Models:
 In this project we have used 6 models of architectures, each model has been applied with Transfer Learning methods. The models are as follows:
