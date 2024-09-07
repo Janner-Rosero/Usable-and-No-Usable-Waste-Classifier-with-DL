@@ -29,9 +29,9 @@ This dataset contains a total of 2015 photos (1015 of usable and 1000 of non-usa
 An example of photos of usable and non-usable waste is shown below:
 
 ### Usable
-![Usable waste picture](51.jpg)
+![Usable waste picture](./readme_images/51.jpg)
 
 ### Non-usable
-![Non-usable waste picture](147.jpg)
+![Non-usable waste picture](./readme_images/147.jpg)
 
 Dataset available in the following link: https://drive.google.com/drive/folders/1Juy3mwwbKxS25jGUhr4gWGNkdIkjnA0d?usp=share_link
